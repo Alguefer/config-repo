@@ -1,0 +1,4 @@
+erver:
+  port: 8080  
+
+mensaje: "Hola desde user-service"
